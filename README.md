@@ -30,7 +30,8 @@ DIRCHK is a command-line tool for directory busting and domain information retri
    ```bash
     python DIRCHK.py <url> <wordlist>
 ##Output 
-  ____  _     ____ _  __ _  __
+  ```bash
+ ____  _     ____ _  __ _  __
  |  _ \| |   |  _ \ |/ _| |/ /
  | | | | |   | | | | | |_| '_ \
  | |_| | |___| |_| | |  _| (_) |
