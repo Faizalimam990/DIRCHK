@@ -29,7 +29,7 @@ DIRCHK is a command-line tool for directory busting and domain information retri
 3. **USAGE**
    ```bash
     python DIRCHK.py <url> <wordlist>
-##Output 
+# Output 
   ```bash
  ____  _     ____ _  __ _  __
  |  _ \| |   |  _ \ |/ _| |/ /
